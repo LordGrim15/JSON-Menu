@@ -35,7 +35,8 @@
                     "price": 20.00
                 },
                 {
-                    "extrasName": "Chopped fresh basil leaves"
+                    "extrasName": "Chopped fresh basil leaves",
+                    "price": 10.00
                 }
             ]
         },
@@ -73,7 +74,8 @@
                     "price": 20.00
                 },
                 {
-                    "extrasName": "Chopped fresh basil leaves"
+                    "extrasName": "Chopped fresh basil leaves",
+                    "price": 10.00
                 }
             ]
         },
@@ -111,7 +113,8 @@
                     "price": 20.00
                 },
                 {
-                    "extrasName": "Chopped fresh basil leaves"
+                    "extrasName": "Chopped fresh basil leaves",
+                    "price": 10.00
                 }
             ]
         },
@@ -149,7 +152,8 @@
                     "price": 20.00
                 },
                 {
-                    "extrasName": "Chopped fresh basil leaves"
+                    "extrasName": "Chopped fresh basil leaves",
+                    "price": 10.00
                 }
             ]
         },
@@ -187,7 +191,8 @@
                     "price": 20.00
                 },
                 {
-                    "extrasName": "Chopped fresh basil leaves"
+                    "extrasName": "Chopped fresh basil leaves",
+                    "price": 10.00
                 }
             ]
         },
@@ -225,7 +230,8 @@
                     "price": 20.00
                 },
                 {
-                    "extrasName": "Chopped fresh basil leaves"
+                    "extrasName": "Chopped fresh basil leaves",
+                    "price": 10.00
                 }
             ]
         },
