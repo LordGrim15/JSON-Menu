@@ -9,6 +9,7 @@
             "ingredients": ["Eggs", "Oil", "Butter", "Bacon"],
             "allergens": ["Eggs"], 
             "price": 60.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -87,6 +88,7 @@
             "ingredients": ["Eggs", "Butter", "Garlic", "Milk or water", "Salt and Pepper", "Mozzarella cheese", "Parmesan cheese"],
             "allergens": ["Eggs", "Milk"],
             "price": 110.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -165,6 +167,7 @@
             "ingredients": ["Grilled fillet", "Roasted peppers", "Bearnaise(Egg yolk, Clarified butter, White vinegar)"],
             "allergens": ["Eggs"],
             "price": 100.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -243,6 +246,7 @@
             "ingredients": ["Ketchup","Cheese", "Ham", "Mushrooms", "Oregano"],
             "allergens": ["Eggs", "Wheat", "Hot"],
             "price": 150.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -297,6 +301,7 @@
             "ingredients": ["Ketchup","Cheese", "Oregano"],
             "allergens": ["Eggs", "Wheat", "Hot"],
             "price": 130.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -324,6 +329,7 @@
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -359,6 +365,7 @@
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -454,6 +461,7 @@
             "ingredients": ["Flour", "Eggs", "Milk", "Butter", "Baking powder", "Sugar"],
             "allergens": ["Eggs", "Milk", "Wheat", "Hot"],
             "price": 80.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Nutella",
@@ -484,6 +492,7 @@
             "ingredients": ["Flour", "Salt", "Eggs", "Milk", "Butter", "Vanilla", "Baking powder", "Sugar"],
             "allergens": ["Eggs", "Milk", "Wheat", "Hot"],
             "price": 80.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Nutella",
