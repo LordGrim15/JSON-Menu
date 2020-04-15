@@ -492,7 +492,6 @@
             "ingredients": ["Flour", "Salt", "Eggs", "Milk", "Butter", "Vanilla", "Baking powder", "Sugar"],
             "allergens": ["Eggs", "Milk", "Wheat", "Hot"],
             "price": 80.00,
-            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Nutella",
