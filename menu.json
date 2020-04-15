@@ -239,6 +239,42 @@
             ]
         },
         {
+            "itemName": "Cheeseburger",
+            "mainCategory": "Lunch",
+            "secondCategory": "Burgers",
+            "itemImg": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
+            "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
+            "allergens": ["Wheat", "Hot"],
+            "price": 130.00,
+            "ordered": "most ordered",
+            "extras": [
+                {
+                    "extrasName": "Ketchup",
+                    "price": 10.00
+                },
+                {
+                    "extrasName": "Cheese",
+                    "price": 30.00
+                },
+                {
+                    "extrasName": "Bacon",
+                    "price": 40.00
+                },
+                {
+                    "extrasName": "Egg",
+                    "price": 20.00
+                },
+                {
+                    "extrasName": "French fries",
+                    "price": 70.00
+                },
+                {
+                    "extrasName": "Curry sauce",
+                    "price": 10.00
+                }
+            ]
+        },
+        {
             "itemName": "Pizza Capricciosa",
             "mainCategory": "Lunch",
             "secondCategory": "Pizzas",
@@ -327,42 +363,6 @@
             "secondCategory": "Burgers",
             "itemImg": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/beyond-burger-nutrition-and-ingredients-1569351590.jpg?crop=1.00xw:0.669xh;0,0.147xh&resize=1200:*",
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Tomatoes", "Lettuce", "Onions" ],
-            "allergens": ["Wheat", "Hot"],
-            "price": 130.00,
-            "ordered": "most ordered",
-            "extras": [
-                {
-                    "extrasName": "Ketchup",
-                    "price": 10.00
-                },
-                {
-                    "extrasName": "Cheese",
-                    "price": 30.00
-                },
-                {
-                    "extrasName": "Bacon",
-                    "price": 40.00
-                },
-                {
-                    "extrasName": "Egg",
-                    "price": 20.00
-                },
-                {
-                    "extrasName": "French fries",
-                    "price": 70.00
-                },
-                {
-                    "extrasName": "Curry sauce",
-                    "price": 10.00
-                }
-            ]
-        },
-        {
-            "itemName": "Cheeseburger",
-            "mainCategory": "Lunch",
-            "secondCategory": "Burgers",
-            "itemImg": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
-            "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
             "ordered": "most ordered",
