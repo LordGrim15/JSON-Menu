@@ -274,6 +274,111 @@
             ]
         },
         {
+            "itemName": "Vege2",
+            "mainCategory": "Vegetarian",
+            "secondCategory": "Vegetarian",
+            "itemImg": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
+            "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
+            "allergens": ["Wheat", "Hot"],
+            "price": 130.00,
+            "extras": [
+                {
+                    "extrasName": "Ketchup",
+                    "price": 10.00
+                },
+                {
+                    "extrasName": "Cheese",
+                    "price": 30.00
+                },
+                {
+                    "extrasName": "Bacon",
+                    "price": 40.00
+                },
+                {
+                    "extrasName": "Egg",
+                    "price": 20.00
+                },
+                {
+                    "extrasName": "French fries",
+                    "price": 70.00
+                },
+                {
+                    "extrasName": "Curry sauce",
+                    "price": 10.00
+                }
+            ]
+        },
+        {
+            "itemName": "Vegan1",
+            "mainCategory": "Vegetarian",
+            "secondCategory": "Vegan",
+            "itemImg": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
+            "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
+            "allergens": ["Wheat", "Hot"],
+            "price": 130.00,
+            "extras": [
+                {
+                    "extrasName": "Ketchup",
+                    "price": 10.00
+                },
+                {
+                    "extrasName": "Cheese",
+                    "price": 30.00
+                },
+                {
+                    "extrasName": "Bacon",
+                    "price": 40.00
+                },
+                {
+                    "extrasName": "Egg",
+                    "price": 20.00
+                },
+                {
+                    "extrasName": "French fries",
+                    "price": 70.00
+                },
+                {
+                    "extrasName": "Curry sauce",
+                    "price": 10.00
+                }
+            ]
+        },
+        {
+            "itemName": "Vegan2",
+            "mainCategory": "Vegetarian",
+            "secondCategory": "Vegan",
+            "itemImg": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
+            "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
+            "allergens": ["Wheat", "Hot"],
+            "price": 130.00,
+            "extras": [
+                {
+                    "extrasName": "Ketchup",
+                    "price": 10.00
+                },
+                {
+                    "extrasName": "Cheese",
+                    "price": 30.00
+                },
+                {
+                    "extrasName": "Bacon",
+                    "price": 40.00
+                },
+                {
+                    "extrasName": "Egg",
+                    "price": 20.00
+                },
+                {
+                    "extrasName": "French fries",
+                    "price": 70.00
+                },
+                {
+                    "extrasName": "Curry sauce",
+                    "price": 10.00
+                }
+            ]
+        },
+        {
             "itemName": "Pizza Capricciosa",
             "mainCategory": "Lunch",
             "secondCategory": "Pizzas",
