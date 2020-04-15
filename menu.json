@@ -128,6 +128,7 @@
             "ingredients": ["Canadian bacon", "Homemade Hollandaise(Yolk, Butter, Lemon)"],
             "allergens": ["Eggs"],
             "price": 70.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Toast",
