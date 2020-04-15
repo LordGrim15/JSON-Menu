@@ -239,14 +239,13 @@
             ]
         },
         {
-            "itemName": "Cheeseburger",
-            "mainCategory": "Lunch",
+            "itemName": "Satay",
+            "mainCategory": "Vegetarian",
             "secondCategory": "Burgers",
             "itemImg": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
-            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -394,13 +393,14 @@
             ]
         },
         {
-            "itemName": "Satay",
-            "mainCategory": "Vegetarian",
+            "itemName": "Cheeseburger",
+            "mainCategory": "Lunch",
             "secondCategory": "Burgers",
             "itemImg": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
+            "ordered": "most ordered",
             "extras": [
                 {
                     "extrasName": "Ketchup",
