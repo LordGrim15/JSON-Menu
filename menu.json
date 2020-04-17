@@ -10,6 +10,7 @@
             "allergens": ["Eggs"], 
             "price": 60.00,
             "ordered": "most ordered",
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -49,6 +50,7 @@
             "ingredients": ["Eggs", "Milk", "Butter", "Salt and Pepper", "Grated cheese(Gruyere, Goat, Cheddar or Feta cheese)"],
             "allergens": ["Eggs", "Milk"],
             "price": 70.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -89,6 +91,7 @@
             "allergens": ["Eggs", "Milk"],
             "price": 110.00,
             "ordered": "most ordered",
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -129,6 +132,7 @@
             "allergens": ["Eggs"],
             "price": 70.00,
             "ordered": "most ordered",
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -169,6 +173,7 @@
             "allergens": ["Eggs"],
             "price": 100.00,
             "ordered": "most ordered",
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -208,6 +213,7 @@
             "ingredients": ["Bacon", "White bread", "Mayonnaise", "Hard-boiled egg", "Tomato", "Chicken breasts","Salad leaves"],
             "allergens": ["Eggs"],
             "price": 100.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Toast",
@@ -247,6 +253,7 @@
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -282,6 +289,7 @@
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -317,6 +325,7 @@
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -352,6 +361,7 @@
             "ingredients": ["Bread", "Beef", "Mayonnaise", "Ketchup", "Cheese", "Tomatoes", "Lettuce", "Onions" ],
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -388,6 +398,7 @@
             "allergens": ["Wheat", "Hot"],
             "price": 130.00,
             "ordered": "most ordered",
+             "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -424,6 +435,7 @@
             "allergens": ["Eggs", "Wheat", "Hot"],
             "price": 150.00,
             "ordered": "most ordered",
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -451,6 +463,7 @@
             "ingredients": ["Ketchup","Cheese", "Salami", "Oregano"],
             "allergens": ["Eggs", "Wheat", "Hot"],
             "price": 170.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -479,6 +492,7 @@
             "allergens": ["Eggs", "Wheat", "Hot"],
             "price": 130.00,
             "ordered": "most ordered",
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ketchup",
@@ -505,6 +519,7 @@
             "ingredients": [ "Butter", "Egg", "Sugar", "Chocolate"],
             "allergens": ["Eggs", "Milk", "Hot"],
             "price": 90.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Ice-Cream",
@@ -532,6 +547,7 @@
             "allergens": ["Eggs", "Milk", "Wheat", "Hot"],
             "price": 80.00,
             "ordered": "most ordered",
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Nutella",
@@ -562,6 +578,7 @@
             "ingredients": ["Flour", "Salt", "Eggs", "Milk", "Butter", "Vanilla", "Baking powder", "Sugar"],
             "allergens": ["Eggs", "Milk", "Wheat", "Hot"],
             "price": 80.00,
+            "inCart": 0,
             "extras": [
                 {
                     "extrasName": "Nutella",
@@ -590,42 +607,48 @@
             "mainCategory": "Drink",
             "secondCategory": "Cold Drinks",
             "itemImg": "https://www.myamericanmarket.com/873-large_default/coca-cola-classic.jpg",
-            "price": 70.00
+            "price": 70.00,
+            "inCart": 0
         },
         {
             "itemName": "Sprite",
             "mainCategory": "Drink",
             "secondCategory": "Cold Drinks",
             "itemImg": "https://toppng.com/uploads/preview/bottle-of-sprite-png-picture-stock-sprite-glass-bottle-11563220225w2kyrcbxop.png",
-            "price": 70.00
+            "price": 70.00,
+            "inCart": 0
         },
         {
             "itemName": "Fanta",
             "mainCategory": "Drink",
             "secondCategory": "Cold Drinks",
             "itemImg": "https://f0.pngfuel.com/png/746/579/clear-drinking-glass-fanta-cup-with-orange-liquid-png-clip-art.png",
-            "price": 70.00
+            "price": 70.00,
+            "inCart": 0
         },
         {
             "itemName": "Schweppes",
             "mainCategory": "Drink",
             "secondCategory": "Cold Drinks",
             "itemImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQP-V42zxyDdFrJkPVUYFjNGTzaxtH5OnQiVtIZ8UuoEAOllhHZ&usqp=CAU",
-            "price": 70.00
+            "price": 70.00,
+            "inCart": 0
         },
         {
             "itemName": "Beer",
             "mainCategory": "Drink",
             "secondCategory": "Alcoholic Drinks",
             "itemImg": "https://f0.pngfuel.com/png/582/602/carlsberg-bottle-photo-png-clip-art.png",
-            "price": 90.00
+            "price": 90.00,
+            "inCart": 0
         },
         {
             "itemName": "Jack Daniels",
             "mainCategory": "Drink",
             "secondCategory": "Alcoholic Drinks",
             "itemImg": "https://d3r6kbofdnmd8.cloudfront.net/media/catalog/product/cache/image/1536x/a4e40ebdc3e371adff845072e1c73f37/U/D/UD042GP_jack-daniels-bottled-in-bond_1000.jpg",
-            "price": 90.00
+            "price": 90.00,
+            "inCart": 0
         }
     ]
 }
