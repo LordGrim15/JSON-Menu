@@ -603,6 +603,33 @@
             ]
         },
         {
+            "itemName": "Lava Cake",
+            "mainCategory": "Desert",
+            "itemImg": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Chocolate_Fondant.jpg",
+            "ingredients": [ "Butter", "Egg", "Sugar", "Chocolate"],
+            "allergens": ["Eggs", "Milk", "Hot"],
+            "price": 90.00,
+            "inCart": 0,
+            "extras": [
+                {
+                    "extrasName": "Ice-Cream",
+                    "price": 20.00
+                },
+                {
+                    "extrasName": "Chocolate Glaze",
+                    "price": 15.00
+                },
+                {
+                    "extrasName": "Powdered Sugar",
+                    "price": 5.00
+                },
+                {
+                    "extrasName": "Strawberry",
+                    "price": 10.00
+                }
+            ]
+        },
+        {
             "itemName": "Coca-Cola",
             "mainCategory": "Drink",
             "secondCategory": "Cold Drinks",
