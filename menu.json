@@ -5,7 +5,7 @@
             "itemName": "Basic Omelete",
             "mainCategory": "Breakfast",
             "secondCategory": "Omelets",
-            "itemImg": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/09/omelette.jpg?itok=7K3AxA-w2",
+            "itemImg": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/09/omelette.jpg?itok=7K3AxA-w",
             "ingredients": ["Eggs", "Oil", "Butter", "Bacon"],
             "allergens": ["Eggs"], 
             "price": 60.00,
